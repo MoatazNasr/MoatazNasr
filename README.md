@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Javascript - React - Redux**
+- 💬 Ask me about **JS - MERN**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
