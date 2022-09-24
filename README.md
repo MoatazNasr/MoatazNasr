@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-commerce website](https://e-commerce-maym.herokuapp.com/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Javascript - React - Redux**
 
