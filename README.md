@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataznasr" alt="moataznasr" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://e-commerce-maym.herokuapp.com/)
+- 🔭 I’m currently working on [Pizza Website App]()
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Javascript - React - Redux**
+- 💬 Ask me about **Javascript - React - Redux - NextJS**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
