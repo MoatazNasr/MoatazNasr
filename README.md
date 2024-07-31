@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Javascript - React - Redux - NextJS**
+- 💬 Ask me about **Java - Javascript - Typescript**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love DSA**
 
