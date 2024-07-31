@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataznasr" alt="moataznasr" /></a> </p>
 
-- 🔭 I’m currently working on [Pizza Website App]()
+- 🔭 I’m currently working on Java Sping Boot Projects
+  
+- I'm currently reading Head First SQL
 
 - 🌱 I’m currently learning **DSA**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences  
 
 - ⚡ Fun fact **I love DSA**
 
