@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java Sping Projects**
   
-- :books: I'm currently reading **Head First SQL**
+- 📖 I'm currently reading **Head First SQL**
 
 - 🌱 I’m currently learning **Microservices**
 
@@ -14,6 +14,9 @@
 - 📫 How to reach me **motaznasr44@gmail.com**
 
 - ⚡ Fun fact **I love DSA**
+
+- 📚 I have read:
+    - Head First Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
