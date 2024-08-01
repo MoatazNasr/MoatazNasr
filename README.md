@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Java - Spring - SQL**
+- 💬 Ask me about **Java - Spring - SQL - Javascript - Typescript**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
@@ -17,6 +17,7 @@
 
 - 📚 I have read:
     - Head First Java
+    - You Don't Know Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
