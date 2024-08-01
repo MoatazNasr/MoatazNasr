@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Java Sping Boot Projects
   
-- I'm currently reading Head First SQL
+- :books: I'm currently reading Head First SQL
 
 - 🌱 I’m currently learning **DSA**
 
