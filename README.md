@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataznasr" alt="moataznasr" /></a> </p>
 
-- 🔭 I’m currently working on Java Sping Boot Projects
+- 🔭 I’m currently working on Java Sping Projects
   
-- :books: I'm currently reading Head First SQL
+- :books: I'm currently reading **Head First SQL**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Java - Javascript - Typescript**
+- 💬 Ask me about **Java - Spring - SQL**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
