@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataznasr" alt="moataznasr" /></a> </p>
 
-- 🔭 I’m currently working on Java Sping Projects
+- 🔭 I’m currently working on **Java Sping Projects**
   
 - :books: I'm currently reading **Head First SQL**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Java - Spring - SQL**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
-
-- 📄 Know about my experiences  
 
 - ⚡ Fun fact **I love DSA**
 
