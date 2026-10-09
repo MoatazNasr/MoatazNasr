@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataznasr" alt="moataznasr" /></a> </p>
 
-- 🔭 I’m currently working on **Java Sping Projects**
+- 🔭 I’m currently working on **Process Management Projects**
   
-- 📖 I'm currently reading **Head First SQL**
+- 📖 I'm currently reading **OSC Book 9th Edition**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **OS & Networks**
 
-- 💬 Ask me about **Java - Spring - SQL - Javascript - Typescript**
+- 💬 Ask me about **Java - Spring - SQL/DB - Systems Optimizations**
 
 - 📫 How to reach me **motaznasr44@gmail.com**
 
@@ -17,6 +17,10 @@
 
 - 📚 I have read:
     - Head First Java
+    - Head First SQL
+    - Head First OOAD
+    - Clean Code
+    - OSC 9th edition (reading)
     - You Don't Know Javascript
 
 <h3 align="left">Connect with me:</h3>
